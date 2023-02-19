@@ -54,31 +54,39 @@ JsonDataFormatterASPCore/*.pdb
 JsonDataFormatterASPCore/*.dll.config
 JsonDataFormatterASPCore/*.cache
 JsonDataFormatterASPCore/*.suo
+
 # Include dlls if they’re in the NuGet packages directory
 JsonDataFormatterASPCore/!/packages/*/lib/*.dll
 JsonDataFormatterASPCore/!/packages/*/lib/*/*.dll
+
 # Include dlls if they're in the CommonReferences directory
 JsonDataFormatterASPCore/!*CommonReferences/*.dll
+
 ####################
 # VS Upgrade stuff #
 ####################
 JsonDataFormatterASPCore/UpgradeLog.XML
 JsonDataFormatterASPCore/_UpgradeReport_Files/
+
 ###############
 # Directories #
 ###############
 JsonDataFormatterASPCore/bin/
 JsonDataFormatterASPCore/obj/
 JsonDataFormatterASPCore/TestResults/
+
 ###################
 # Web publish log #
 ###################
+
 JsonDataFormatterASPCore/*.Publish.xml
+
 #############
 # Resharper #
 #############
 JsonDataFormatterASPCore//_ReSharper.*
 JsonDataFormatterASPCore/*.ReSharper.*
+
 ############
 # Packages #
 ############
@@ -92,11 +100,14 @@ JsonDataFormatterASPCore/*.jar
 JsonDataFormatterASPCore/*.rar
 JsonDataFormatterASPCore/*.tar
 JsonDataFormatterASPCore/*.zip
+
 ######################
 # Logs and databases #
 ######################
+
 JsonDataFormatterASPCore/*.log
 JsonDataFormatterASPCore/*.sqlite
+
 # OS generated files #
 ######################
 JsonDataFormatterASPCore/.DS_Store?
