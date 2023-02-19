@@ -65,67 +65,68 @@ JsonDataFormatterASPCore/!*CommonReferences/*.dll
 ####################
 # VS Upgrade stuff #
 ####################
-JsonDataFormatterASPCore/UpgradeLog.XML
-JsonDataFormatterASPCore/_UpgradeReport_Files/
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/UpgradeLog.XML
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/_UpgradeReport_Files/
 
 ###############
 # Directories #
 ###############
-JsonDataFormatterASPCore/bin/
-JsonDataFormatterASPCore/obj/
-JsonDataFormatterASPCore/TestResults/
+JsonDataFormatterASPCore/.vs/
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/bin/
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/obj/
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/TestResults/
 
 ###################
 # Web publish log #
 ###################
 
-JsonDataFormatterASPCore/*.Publish.xml
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.Publish.xml
 
 #############
 # Resharper #
 #############
-JsonDataFormatterASPCore//_ReSharper.*
-JsonDataFormatterASPCore/*.ReSharper.*
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/_ReSharper.*
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.ReSharper.*
 
 ############
 # Packages #
 ############
 # it’s better to unpack these files and commit the raw source
 # git has its own built in compression methods
-JsonDataFormatterASPCore/*.7z
-JsonDataFormatterASPCore/*.dmg
-JsonDataFormatterASPCore/*.gz
-JsonDataFormatterASPCore/*.iso
-JsonDataFormatterASPCore/*.jar
-JsonDataFormatterASPCore/*.rar
-JsonDataFormatterASPCore/*.tar
-JsonDataFormatterASPCore/*.zip
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.7z
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.dmg
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.gz
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.iso
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.jar
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.rar
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.tar
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.zip
 
 ######################
 # Logs and databases #
 ######################
 
-JsonDataFormatterASPCore/*.log
-JsonDataFormatterASPCore/*.sqlite
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.log
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.sqlite
 
 # OS generated files #
 ######################
-JsonDataFormatterASPCore/.DS_Store?
-JsonDataFormatterASPCore/ehthumbs.db
-JsonDataFormatterASPCore/Icon?
-JsonDataFormatterASPCore/Thumbs.db
-JsonDataFormatterASPCore/[Bb]in
-JsonDataFormatterASPCore/[Oo]bj
-JsonDataFormatterASPCore/[Tt]est[Rr]esults
-JsonDataFormatterASPCore/*.suo
-JsonDataFormatterASPCore/*.user
-JsonDataFormatterASPCore/*.[Cc]ache
-JsonDataFormatterASPCore/*[Rr]esharper*
-JsonDataFormatterASPCore/packages
-JsonDataFormatterASPCore/NuGet.exe
-JsonDataFormatterASPCore/_[Ss]cripts
-JsonDataFormatterASPCore/*.exe
-JsonDataFormatterASPCore/*.dll
-JsonDataFormatterASPCore/*.nupkg
-JsonDataFormatterASPCore/*.ncrunchsolution
-JsonDataFormatterASPCore/*.dot[Cc]over
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/.DS_Store?
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/ehthumbs.db
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/Icon?
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/Thumbs.db
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/[Bb]in
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/[Oo]bj
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/[Tt]est[Rr]esults
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.suo
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.user
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.[Cc]ache
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*[Rr]esharper*
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/packages
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/NuGet.exe
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/_[Ss]cripts
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.exe
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.dll
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.nupkg
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.ncrunchsolution
+JsonDataFormatterASPCore/JsonDataFormatterASPCore/*.dot[Cc]over
