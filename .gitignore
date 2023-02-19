@@ -1,0 +1,120 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+jsonDataFormatterAngular/dist
+jsonDataFormatterAngular/tmp
+jsonDataFormatterAngular/out-tsc
+jsonDataFormatterAngular/bazel-out
+
+# Node
+jsonDataFormatterAngular/node_modules
+jsonDataFormatterAngular/npm-debug.log
+jsonDataFormatterAngular/yarn-error.log
+
+# IDEs and editors
+jsonDataFormatterAngular/.idea/
+jsonDataFormatterAngular/.project
+jsonDataFormatterAngular/.classpath
+jsonDataFormatterAngular/.c9/
+jsonDataFormatterAngular/*.launch
+jsonDataFormatterAngular/.settings/
+jsonDataFormatterAngular/*.sublime-workspace
+
+# Visual Studio Code
+jsonDataFormatterAngular/.vscode/*
+jsonDataFormatterAngular/!.vscode/settings.json
+jsonDataFormatterAngular/!.vscode/tasks.json
+jsonDataFormatterAngular/!.vscode/launch.json
+jsonDataFormatterAngular/!.vscode/extensions.json
+jsonDataFormatterAngular/.history/*
+
+# Miscellaneous
+jsonDataFormatterAngular/.angular/cache
+jsonDataFormatterAngular/.sass-cache/
+jsonDataFormatterAngular/connect.lock
+jsonDataFormatterAngular/coverage
+jsonDataFormatterAngular/libpeerconnection.log
+jsonDataFormatterAngular/testem.log
+jsonDataFormatterAngular/typings
+
+# System files
+jsonDataFormatterAngular/.DS_Store
+jsonDataFormatterAngular/Thumbs.db
+
+
+
+###################
+# compiled source #
+###################
+JsonDataFormatterASPCore/*.com
+JsonDataFormatterASPCore/*.class
+JsonDataFormatterASPCore/*.dll
+JsonDataFormatterASPCore/*.exe
+JsonDataFormatterASPCore/*.pdb
+JsonDataFormatterASPCore/*.dll.config
+JsonDataFormatterASPCore/*.cache
+JsonDataFormatterASPCore/*.suo
+# Include dlls if they’re in the NuGet packages directory
+JsonDataFormatterASPCore/!/packages/*/lib/*.dll
+JsonDataFormatterASPCore/!/packages/*/lib/*/*.dll
+# Include dlls if they're in the CommonReferences directory
+JsonDataFormatterASPCore/!*CommonReferences/*.dll
+####################
+# VS Upgrade stuff #
+####################
+JsonDataFormatterASPCore/UpgradeLog.XML
+JsonDataFormatterASPCore/_UpgradeReport_Files/
+###############
+# Directories #
+###############
+JsonDataFormatterASPCore/bin/
+JsonDataFormatterASPCore/obj/
+JsonDataFormatterASPCore/TestResults/
+###################
+# Web publish log #
+###################
+JsonDataFormatterASPCore/*.Publish.xml
+#############
+# Resharper #
+#############
+JsonDataFormatterASPCore//_ReSharper.*
+JsonDataFormatterASPCore/*.ReSharper.*
+############
+# Packages #
+############
+# it’s better to unpack these files and commit the raw source
+# git has its own built in compression methods
+JsonDataFormatterASPCore/*.7z
+JsonDataFormatterASPCore/*.dmg
+JsonDataFormatterASPCore/*.gz
+JsonDataFormatterASPCore/*.iso
+JsonDataFormatterASPCore/*.jar
+JsonDataFormatterASPCore/*.rar
+JsonDataFormatterASPCore/*.tar
+JsonDataFormatterASPCore/*.zip
+######################
+# Logs and databases #
+######################
+JsonDataFormatterASPCore/*.log
+JsonDataFormatterASPCore/*.sqlite
+# OS generated files #
+######################
+JsonDataFormatterASPCore/.DS_Store?
+JsonDataFormatterASPCore/ehthumbs.db
+JsonDataFormatterASPCore/Icon?
+JsonDataFormatterASPCore/Thumbs.db
+JsonDataFormatterASPCore/[Bb]in
+JsonDataFormatterASPCore/[Oo]bj
+JsonDataFormatterASPCore/[Tt]est[Rr]esults
+JsonDataFormatterASPCore/*.suo
+JsonDataFormatterASPCore/*.user
+JsonDataFormatterASPCore/*.[Cc]ache
+JsonDataFormatterASPCore/*[Rr]esharper*
+JsonDataFormatterASPCore/packages
+JsonDataFormatterASPCore/NuGet.exe
+JsonDataFormatterASPCore/_[Ss]cripts
+JsonDataFormatterASPCore/*.exe
+JsonDataFormatterASPCore/*.dll
+JsonDataFormatterASPCore/*.nupkg
+JsonDataFormatterASPCore/*.ncrunchsolution
+JsonDataFormatterASPCore/*.dot[Cc]over
